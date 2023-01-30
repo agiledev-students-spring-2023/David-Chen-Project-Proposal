@@ -1,4 +1,7 @@
+
 # Title: Always there to help
+
+By David Chen
 
 ## What and Why :
 
